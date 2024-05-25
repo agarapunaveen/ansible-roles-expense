@@ -1,4 +1,7 @@
+ login_user: root
  login_password: ExpenseApp@1
- login_host: 172.31.29.212
+ login_host: db.naveencloud.online
+ DB_HOST: db.naveencloud.online
  app_location: /app
+ component: backend
 
